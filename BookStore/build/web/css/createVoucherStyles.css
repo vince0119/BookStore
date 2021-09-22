@@ -1,0 +1,236 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+/*======Header : Start======*/
+.header{
+    background-color: rgb(1, 127, 255);
+    width: 100%;
+    height: 102px;
+    display: flex;
+    justify-content: center;
+}
+
+.header p {
+    line-height: 102px;
+    font-size: 48px;
+    font-weight: 600;
+    color: white;
+    font-family: sans-serif;
+}
+/*======Header : End======*/
+
+/*======Main : Start======*/
+
+.main{
+    background-color: rgb(239,239,239);
+}
+.container{
+    background-color: white;
+    width: 80%;
+    margin: 20px 10%;
+    border-radius: 5px;
+    display: flex;
+}
+
+.slide-bar{
+    display: flex;
+    width: 159.25px;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.slide-bar-one , .slide-bar-two{
+    width: 143.31px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid lightgrey ;
+    display: flex;
+    flex-direction: column;
+}
+.slide-bar-one{
+    height: 81.25px;
+    margin-bottom: 5%;
+}
+.slide-bar-one form > input{
+    width: 100%;
+}
+.slide-bar-two{
+    height: 221.89px;
+}
+.slide-bar-text{
+    height: 18px;;
+    border-bottom: 1px solid lightgrey ;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.slide-bar-content{
+    display: flex;
+    height: 80%;
+    flex-direction: column;
+}
+.link-block-one,.link-block-two{
+    height: 50%;
+    margin-bottom: 10px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+.link-block-two{
+    border-top: 1px lightgrey dotted;
+}
+
+.link-block-one:hover a, .link-block-two:hover a{
+    text-decoration: underline #23E3C9;
+}
+.link-block-one a,.link-block-two a{
+    text-decoration: none;
+    color: #23E3C9;
+}
+
+.slide-bar-content-welcome{
+    display: flex;
+    flex-direction: column;
+}
+.slide-bar-content-welcome small{
+    color: #23E3C9;
+}
+.slide-bar-content-welcome p{
+    color: tomato;
+}
+
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin: 10px;
+    margin-left: 0;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    align-items: center;
+}
+.create-voucher-form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-top: 18px;
+    margin-right: 35%;
+    margin-left: 35%;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+.line-one{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.line-two{
+    border: none;
+    outline: 0;
+    margin: 10px 48.85px 10px 48.85px;
+    color: white;
+    background-color: #0D5BC6;
+    text-align: center;
+    cursor: pointer;
+    width: 173px;
+    height: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.line-two:hover{
+    color: #23E3C9;
+    opacity: 0.7;
+}
+.block-content{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+.block-content input{
+    height: 20px;
+}
+.time{
+    width: 173px;
+    display: flex;
+    justify-content: space-between;
+}
+.time > input{
+    width: 50px;
+}
+
+.message p{
+    font-size: 18px;
+    color: red;
+}
+
+
+/*======Main : End======*/
+
+/*===== Footer : Start =====*/
+.footer{
+    width: 100%;
+    background-color: white;
+}
+
+.footer-container{
+    display: flex;
+    width: 85%;
+    margin: 0 7.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.client-support,.about-us,.opperation-association,.payment-methods,.website-referring{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+
+.social-media,.dowload-link{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.footer-title{
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+
+.block-text{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+.block-text p{
+    margin-top: 8px;
+}
+
+.dowload-img{
+    object-fit: contain;
+    width: 134px;
+    height: 40px;
+}
+
+/*===== Footer : End =====*/
+

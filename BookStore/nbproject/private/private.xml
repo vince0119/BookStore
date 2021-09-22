@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/HistoryServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/UpdateProductQuantityInCartServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/SelectProductServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/book/BookDAO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/DispatchServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Order/OrderDTO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Order/OrderDAO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/UpdateServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/ApplyVoucherSevlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Orderdetail/OrderDetailDTO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Discount/DiscountDAO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/LogoutServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Category/CategoryDTO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Validate/Validate.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/LoginServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/StartAppServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/CreateNewBookServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/AddToCartServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Users/UserDTO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/DeleteFromCartServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Orderdetail/OrderDetailDAO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Users/UserDAO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/SearchServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Dbutils/MyConnection.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Category/CategoryDAO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Cart/Cart.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/HistoryInDetailServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/DeleteServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/book/BookDTO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/CreateVoucherServlet.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Discount/DiscountDTO.java</file>
+            <file>file:/D:/FPT/LAB231/BookStore/src/java/Controllers/PayServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
